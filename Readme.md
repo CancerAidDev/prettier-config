@@ -2,7 +2,7 @@
 
 #### Install prettier
 ```bash
-yarn add prettier
+yarn add git+https://github.com/CancerAidDev/prettier-config.git
 ```
 #### Reference it in package.json
 ```bash
