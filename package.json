@@ -1,6 +1,6 @@
 {
   "name": "@canceraiddev/prettier-config",
-  "version": "1.0.1-alpha",
+  "version": "1.0.1-alpha.2",
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
