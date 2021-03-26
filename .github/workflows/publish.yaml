@@ -20,6 +20,6 @@ jobs:
         uses: geritol/match-tag-to-package-version@0.0.2
         env:
           TAG_PREFIX: refs/tags/v
-      - run: npm publish
+      - run: yarn publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
